@@ -1,5 +1,11 @@
 # nodejs_assignment
 
+## Installation
+
+npm install
+## Running the Application
+npm start
+
 ## API Response Example for Fetching Users
 
 ```
